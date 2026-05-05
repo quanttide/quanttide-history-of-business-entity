@@ -13,8 +13,9 @@
 
 - 重命名 org → organization
 
-## [0.0.1] - 2026-03-13
+## [0.0.1] - 2026-03-22
 
-### Initial commit
+### Added
 
-- 初始化 story 子模块
+- Initial release
+- org/meta_leadership.md：元领导力组织结构
