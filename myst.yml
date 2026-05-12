@@ -1,14 +1,14 @@
 version: 1
 project:
-  title: 量潮故事
+  title: 量潮科技品牌故事
   description: 量潮科技品牌故事
   keywords: []
   license: CC-BY-4.0
   toc:
-    - file: README.md
+    - file: index.md
     - title: 量潮课堂
       children:
-        - file: qtclass/vibecoding_trainAI.md
+        - file: qtclass/vibe_coding.md
     - title: 组织与文化
       children:
         - file: organization/meta_leadership.md
