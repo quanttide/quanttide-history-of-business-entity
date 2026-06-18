@@ -6,13 +6,21 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - title: 公司发展
+      children:
+        - file: company/from-lab-to-company.md
     - title: 量潮课堂
       children:
         - file: qtclass/vibe_coding.md
+        - file: qtclass/history.md
+    - title: 量潮数据
+      children:
+        - file: qtdata/history.md
     - title: 组织与文化
       children:
         - file: organization/meta_leadership.md
         - file: organization/growth_employee.md
+        - file: organization/founder-role-transition.md
     - title: 媒体与算法
       children:
         - file: media/algorithm-downside.md
