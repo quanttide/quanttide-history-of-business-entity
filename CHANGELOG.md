@@ -19,3 +19,4 @@
 
 - Initial release
 - org/meta_leadership.md：元领导力组织结构
+- 移除 qtrecurit 历史文章：迁移至联盟历史仓（quanttide-history-of-innovation-alliance），梳理待补
