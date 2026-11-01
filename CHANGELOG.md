@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### Added
+
+- qtclass/pricing-evolution.md：量潮课堂定价演化——从按课程标价到按对象与商业模式定价（G 合同/B 采购/C 课时），2026-11-01 两次修正与转身意义
+
 ## [0.1.0] - 2026-05-05
 
 ### Added
