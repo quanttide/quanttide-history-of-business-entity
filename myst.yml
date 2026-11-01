@@ -13,7 +13,7 @@ project:
       children:
         - file: qtclass/index.md
         - file: qtclass/qtacademy-evolution.md
-        - file: qtclass/pricing-evolution.md
+        - file: qtclass/business.md
     - title: 量潮数据
       children:
         - file: qtdata/history.md
