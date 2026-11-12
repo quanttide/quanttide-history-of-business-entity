@@ -4,6 +4,7 @@
 
 ### Added
 
+- qtclass/course.md：课程框架演化——quanttide-tutorial-of-readme 的穷举清单尝试（古法编程时代掉坑）与 2026-11-12 新人一站式导航重新接上；与意图库 qtclass/curriculum.md 同实体
 - qtclass/business.md：量潮课堂定价演化——从按课程标价到按对象与商业模式定价（G 合同/B 采购/C 课时），2026-11-01 两次修正与转身意义；与意图库 qtclass/business.md 同名同实体
 
 ## [0.1.0] - 2026-05-05
