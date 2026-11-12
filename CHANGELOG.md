@@ -9,6 +9,11 @@
 ### Changed
 
 - qtclass/qtacademy-evolution.md 重命名为 qtclass/org.md
+
+### Removed
+
+- organization/ 迁移至组织管理历史仓（quanttide-history-of-organization-management）default/organization/，团队思考 thinking_in_sync.md 一并随迁
+- 删除 default/（motivation-of-criticizing-xmu-soe.md）与 media/（algorithm-downside.md），myst.yml toc 同步清理
 - qtclass/business.md：量潮课堂定价演化——从按课程标价到按对象与商业模式定价（G 合同/B 采购/C 课时），2026-11-01 两次修正与转身意义；与意图库 qtclass/business.md 同名同实体
 
 ## [0.1.0] - 2026-05-05
